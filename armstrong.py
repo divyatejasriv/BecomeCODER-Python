@@ -1,3 +1,4 @@
+#Armstrong number is a number that is equal to the sum of cubes of its digits.
 num = int(input("Enter a number: "))
 sum = 0
 temp = num
